@@ -14,7 +14,8 @@ This project presents an interactive Power BI dashboard analyzing Airbnb listing
 - Excel / CSV Dataset
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](<img width="1150" height="649" alt="Screenshot 2026-02-13 225806" src="https://github.com/user-attachments/assets/c69862e1-4075-438a-afbc-3d48b5b274ff" />
+)
 
 ## 📈 Key Insights
 - Most listings are concentrated in urban areas
